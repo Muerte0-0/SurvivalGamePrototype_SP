@@ -13,4 +13,4 @@ A Prototype for a Single Player Survival Game
  - Buiilding System
  - Procedural Leaning (Third Person)
  - Auto Depth of Field (First Person)
- - Basic Foot IK
+ - Basic Foot IK (Using Virtual Bones)
