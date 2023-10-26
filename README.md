@@ -8,8 +8,8 @@ A Prototype for a Single Player Survival Game
 
  Currently Has : 
 
- True First Person and Third Person Perspective ^
- Inventory System ^
- Buiilding System
- Procedural Leaning (Third Person)
- Auto Depth of Field (First Person)
+ - True First Person and Third Person Perspective
+ - Inventory System
+ - Buiilding System
+ - Procedural Leaning (Third Person)
+ - Auto Depth of Field (First Person)
