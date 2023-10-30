@@ -8,11 +8,11 @@ A Prototype for a Single Player Survival Game
 
  Currently Has : 
 
- - True First Person and Third Person Perspective
+ - True First Person (WIP) and Third Person Perspective
  - Inventory System
  - Equipment System w/ Hotbar
  - Buiilding System
- - Procedural Leaning (Third Person)
+ - Procedural Leaning according to Movement Direction (Third Person)
  - Procedural Aim Offset (Third Person)
  - Auto Depth of Field (First Person)
  - Basic Foot IK (Using Virtual Bones)
